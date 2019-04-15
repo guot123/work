@@ -11,7 +11,7 @@ class Person{
     public function run(){
         $str = '姓名'.$this->_name;
         $str = '性别'.$this->_sex;
-        $str = '在奔跑';
+        $str = '在是西瓜';
         echo $str;
         return $str;
     }

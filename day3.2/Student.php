@@ -17,7 +17,7 @@ class Student extends Person implements Walk{
         return 'this is student run';
     }
     public function speak(){
-        return 'this is student run';
+        return 'this is student speak';
     }
 }
 ?>

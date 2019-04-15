@@ -12,6 +12,6 @@ $obj6 = new Student('张珊6',22);
 $obj7 = new Student('张珊7',11);
 $obj8 = new Student('张珊8',8);
 
-// echo $obj8::$_maxname;
-echo $obj8->run();
+echo $obj8::$_maxage;
+echo $obj1->run();
 ?>
